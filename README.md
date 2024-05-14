@@ -1,4 +1,4 @@
-![Logo profile](Logo_400x400.gif)# Hola, mi nombre es Javier 👋
+<img src="Logo_Javier.jpeg" width="40" height="40" /> # Hola, mi nombre es Javier 👋
 
 <!--
 **JavierNetx/JavierNetx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
